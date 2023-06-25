@@ -4,9 +4,9 @@ Reposiório com dados e análises da minha Tese de Doutorado, intitulada: 'Plane
 
 ## Índice
 
-- **Capítulo 2** | *Planejamento e regulação da expansão territorial urbana em planos diretores: estudo de caso em São Carlos, SP*
+- [**Capítulo 2** | *Planejamento e regulação da expansão territorial urbana em planos diretores: estudo de caso em São Carlos, SP*](https://github.com/icn-sousa/Tese_Planejamento-e-controle-da-expansao-territorial-urbana-na-implementacao-do-Plano-Diretor/tree/main/cap_2)
 
-- **Capítulo 3** | *Áreas urbanizadas em cidades de porte médio: análise comparativa de municípios paulistas no período 2005-2015*
+- [**Capítulo 3** | *Áreas urbanizadas em cidades de porte médio: análise comparativa de municípios paulistas no período 2005-2015*](https://github.com/icn-sousa/Tese_Planejamento-e-controle-da-expansao-territorial-urbana-na-implementacao-do-Plano-Diretor/tree/main/cap_3)
 
-- **Capítulo 4** | *Crescimennto espacial urbano e implementação de planos diretores: estudo de caso em São Carlos, SP*
+- [**Capítulo 4** | *Crescimennto espacial urbano e implementação de planos diretores: estudo de caso em São Carlos, SP*](https://github.com/icn-sousa/Tese_Planejamento-e-controle-da-expansao-territorial-urbana-na-implementacao-do-Plano-Diretor/tree/main/cap_4)
 
