@@ -1,0 +1,1 @@
+Tabelas resultantes das análises dos dados ([3-areas_urbanizadas](https://github.com/icn-sousa/Tese_Planejamento-e-controle-da-expansao-territorial-urbana-na-implementacao-do-Plano-Diretor/blob/main/cap_3/3-areas_urbanizadas.ipynb))
