@@ -1,0 +1,1 @@
+Tabelas resultantes das análises dos dados ([4-indicadores_config_espacial](https://github.com/icn-sousa/Tese_Planejamento-e-controle-da-expansao-territorial-urbana-na-implementacao-do-Plano-Diretor/blob/main/cap_4/4-indicadores_config_espacial.ipynb))
