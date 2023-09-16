@@ -1,4 +1,4 @@
-# Tese_Planejamento-e-controle-da-expansao-territorial-urbana-na-implementacao-do-Plano-Diretor
+# Tese : Planejamento e controle da expansão territorial urbana na implementação do Plano Diretor
 
 Reposiório com dados e análises da minha Tese de Doutorado, intitulada: [Planejamento e controle da expansão territorial urbana na implementação do Plano Diretor](https://repositorio.unesp.br/handle/11449/244248), defendida em 05/05/2023.
 
